@@ -327,7 +327,7 @@ input[type='date'] {
     left: 0;
     position: fixed;
     color: white;
-    width: 100%;
+    width: auto;
     height: auto;
     background-color: rgb(13, 110, 253);
     border-bottom: 1px solid #9b9b9b;
